@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f451abd-16db-40fb-8e60-eb6681294e9c": {
+      "ProjectGuid": "9f451abd-16db-40fb-8e60-eb6681294e9c",
+      "DisplayName": "ProjectManagementApp",
+      "ColorIndex": 0
+    },
+    "4081b279-300e-4bc7-be00-9761612b2085": {
+      "ProjectGuid": "4081b279-300e-4bc7-be00-9761612b2085",
+      "DisplayName": "ProjectManagement",
+      "ColorIndex": 1
+    },
+    "541b99e0-0cef-42c8-a827-fdef3536d19b": {
+      "ProjectGuid": "541b99e0-0cef-42c8-a827-fdef3536d19b",
+      "DisplayName": "ProjectManagement.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,150 @@
+﻿@model ProjectDetailsViewModel
+@{
+    ViewData["Title"] = "Manage your project";
+
+	Dictionary<TaskStatusOptions, string> taskStatusOptionsMappings = new Dictionary<TaskStatusOptions, string>();
+	taskStatusOptionsMappings[TaskStatusOptions.Cancelled] = "Cancelled";
+	taskStatusOptionsMappings[TaskStatusOptions.Completed] = "Completed";
+	taskStatusOptionsMappings[TaskStatusOptions.InProgress] = "In Progress";
+}
+
+<div class="mb-3">
+    <a asp-controller="Project" asp-action="GetAllProjects">All projects</a>
+    <span class="mx-1">|</span>
+    <a asp-controller="Project" asp-action="GetAddProjectRequest">Add new project</a>
+    <span class="mx-1">|</span>
+    <a asp-controller="Project" asp-action="GetEditRequestById" asp-route-id="">Edit this project</a>
+</div>
+
+<div>
+    <p class="h6">Project summary:</p>
+    <p>The Project "@Model.ActiveProject?.Name" was created on @Model.ActiveProject?.DateCreated?.ToString("d")</p>
+</div>
+<div class="row g-3 align-items-center">
+	<div class="col-auto">In Progress Task Count: @Model.InProgressTaskCount</div>
+	<div class="col-auto">Completed Task Count: @Model.CompletedTaskCount</div>
+	<div class="col-auto">Cancelled Task Count: @Model.CancelledTaskCount</div>
+</div>
+
+<div class="text-danger" asp-validation-summary="All"></div>
+
+<br class="border-border-primary border-1 opacity-75" />
+
+<div class="row g-3 align-items-center">
+	<div class="col-sm-9">
+		<p class="h6">Employees on this project:</p>
+		@if (Model.ActiveProject?.Employees?.Count > 0)
+        {
+			<table class ="table table-bordered table-striped">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Employee Number</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (Employee employee in Model.ActiveProject.Employees)
+					{
+						<tr>
+							<td>@employee.FullName</td>
+							<td>@employee.EmployeeNumber</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		}	
+		
+		else
+		{
+			<p>At this moment there are No Employees for the Project Yet! Go on Create Some!</P>
+		}
+	</div>
+</div>
+<div class="col-sn-3">
+	<form asp-controller="Project" asp-action="AddEmployeeToProjectById" asp-route-id="@Model.ActiveProject?.ProjectId"
+		method="post" enctype="application/x-www-form-unlencoded">
+
+	<div class="form-group mb-2">
+		<label asp-for="NewEmployee.FirstName">First Name</label>
+		<input type="text" asp-for="NewEmployee.FirstName" class="form-control form-control-sm" />
+	</div>
+
+<div class="form-group mb-2">
+		<label asp-for="NewEmployee.LastName">Last Name</label>
+		<input type="text" asp-for="NewEmployee.LastName" class="form-control form-control-sm" />
+	</div>
+
+<div class="form-group mb-2">
+		<label asp-for="NewEmployee.EmployeeNumber">Employee Number</label>
+		<input type="text" asp-for="NewEmployee.EmployeeNumber" class="form-control form-control-sm" />
+	</div>
+
+<div>
+	<button type="submit" class="btn btn-primary">Add Employee</button>  
+</div>
+
+	</form>
+</div>
+
+<hr class="border border-primary border-1 opacity-75" />
+
+<div class="row">
+    <div class="col-sm-9">
+        <p class="h6">Tasks for this Project:</p>
+@if (Model.ActiveProject?.Tasks?.Count > 0)
+{
+	<table class="table table-bordered table-striped">
+		<thead>
+			<tr>
+				<th>Description</th>
+				<th>Due Date</th>
+				<th>Status</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (ProjectTask task in Model.ActiveProject.Tasks)
+			{
+ 				<tr>
+					<td>@task.Description</td>
+					<td>@task.DueDate</td>
+					<td>@taskStatusOptionsMappings[task.TaskStatus]</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+
+}
+else
+{
+	<p>There are No Tasks for this Project! Go on and Create Some!</p>
+}
+
+<div class="col-sm-3">
+	<form asp-controller="Project" asp-action="AddTaskToProject" asp-route-id="@Model.ActiveProject?.ProjectId"
+		method="post" enctype="application/x-www-form-urlencoded">
+
+		<div class="form-group mb-2">
+			<label asp-for="NewProjectTask.Description">Description</label>
+			<input type="text" asp-for="NewProjectTask.Description" class="form-control form-control-sn" />
+		</div>
+
+		<div class="form-group mb-2">
+			<label asp-for="NewProjectTask.DueDate">Due Date</label>
+			<input type="datetime" asp-for="NewProjectTask.DueDate" class="form-control form-control-sn" />
+		</div>
+
+		<div class="form-group mb-2">
+			<button type="submit" class="btn btn-primary">Add New Task</button>
+		</div>
+		
+	</form>
+</div>
+
+<hr class="border border-primary border-1 opacity-75" />
+
+<div>
+    <p>
+        Ideally this app would allow users to update task status and assign employees to tasks but in the 
+        interest of avoiding too much complexity on this exam we will ignore that for now &#128516;
+    </p>
+</div>

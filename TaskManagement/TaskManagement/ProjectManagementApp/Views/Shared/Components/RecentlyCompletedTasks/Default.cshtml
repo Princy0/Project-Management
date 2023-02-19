@@ -1,0 +1,10 @@
+﻿@model TasksViewModel
+
+<h3>Recently Completed Tasks</h3>
+<h6>Showing at least @Model.NumberOfTasksToDisplay tasks</h6>
+<ul>
+    @for (int i = 0; i < Math.Min(Model.NumberOfTasksToDisplay, Model.Tasks.Count); i++)
+    {
+        <li>@Model.Tasks[i].Description (on @Model.Tasks[i].Project.Name project)</li>
+    }
+</ul>

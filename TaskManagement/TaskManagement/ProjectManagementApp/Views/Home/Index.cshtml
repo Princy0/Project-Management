@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Project of Prince Prajapati";
+}
+
+<p>
+    <a asp-controller="Project" asp-action="GetAllProjects">View all projects</a>
+    <span class="mx-1">|</span>
+    <a asp-controller="Project" asp-action="GetAddProjectRequest">Add a new project</a>
+</p>
+<div class="row">
+    <div class="col-sm-6">
+        <vc:recently-completed-tasks number-of-tasks-to-display="3" />
+    </div>
+    <div class="col-sm-6">
+        <vc:in-progress-tasks-due-soon number-of-tasks-to-display="3" />
+    </div>
+    <div class="col-sm-6">
+        A place holder for in-progress tasks due soon!
+    </div>
+</div>

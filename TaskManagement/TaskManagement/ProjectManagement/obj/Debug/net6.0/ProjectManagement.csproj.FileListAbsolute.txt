@@ -1,0 +1,96 @@
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\obj\Debug\net6.0\refint\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+C:\peter\src\PROG2230-code\exams\final\CombinedSolution\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\obj\Debug\net6.0\refint\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+C:\peter\src\PROG2230-code\exams\final\Combined-starting-code\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\obj\Debug\net6.0\refint\ProjectManagement.dll
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+C:\peter\src\PROG2230-code\exams\final\ProjectManagement-starting-code\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\bin\Debug\net6.0\ref\ProjectManagement.dll
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll
+F:\Sem 3\Programming MS Web Tech\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\refint\ProjectManagement.dll
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\Final-Exam_Monil\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\obj\Debug\net6.0\refint\ProjectManagement.dll
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+C:\Users\princ\Downloads\Final-Exam_Monil (2)\FinalExam_Prince\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\refint\ProjectManagement.dll
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+C:\Users\princ\Downloads\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\refint\ProjectManagement.dll
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+C:\Users\princ\Downloads\TaskManagement (1)\TaskManagement\TaskManagement\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll

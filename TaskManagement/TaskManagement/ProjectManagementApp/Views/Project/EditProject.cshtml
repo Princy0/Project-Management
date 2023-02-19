@@ -1,0 +1,16 @@
+﻿@model Project
+
+@{
+    ViewData["Title"] = "Edit Project";
+}
+
+<form asp-controller="Project" asp-action="ProcessEditRequest" method="post" enctype="application/x-www-form-urlencoded">
+    <div class="text-danger" asp-validation-summary="All"></div>
+
+    <partial name="_ProjectEditFieldPartial" model = "@Model"/>
+
+    <input type="hidden" asp-for="ProjectId" />
+
+    <button type="submit" class="btn btn-primary">Edit</button>
+    <a asp-controller="Project" asp-action="GetAllProjects" class="btn btn-primary">Cancel</a>
+</form>
