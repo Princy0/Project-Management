@@ -1,7 +1,6 @@
 # Project Management System
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.com/Princy0/project-repo.svg?branch=main)](https://travis-ci.com/Princy0/project-repo)
 
 A web-based project management system built using C# and ASP.NET. The system allows users to manage projects, tasks, and team members efficiently.
 
