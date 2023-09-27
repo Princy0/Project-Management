@@ -60,6 +60,7 @@ If you encounter any issues or have any questions, please contact the developer 
 - You can contact me for contributing more prjects : 
 - Email : Princepn029@gmail.com
 - Linkedin : https://www.linkedin.com/in/princeprajapati/
+- Portfolio : https://princy0.github.io/prince.github.io/
 
 ## License
 
